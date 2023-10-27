@@ -70,7 +70,7 @@ main(){
 	char op;
 	do{
 		system("cls");
-		cout<<"\t\t======== Agoo Banking Management System ========\n"<<endl;
+		cout<<"\t\t======== Bocz Banking Management System ========\n"<<endl;
 		cout<<"\t\t\tMain Menu"<<endl;
 		cout<<"\t\t1. Create New Account"<<endl;
 		cout<<"\t\t2. Show All Account"<<endl;
