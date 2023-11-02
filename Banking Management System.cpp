@@ -9,7 +9,7 @@ class BankAccount{
 		double balance;
 	public:
 		BankAccount(string n, int ac,double bal){
-			name = n;
+			name = n; 
 			accountNum = ac; 
 			balance = bal;
 		}
