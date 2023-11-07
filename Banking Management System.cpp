@@ -2,7 +2,7 @@
 #include<vector>
 using namespace std;
 
-class BankAccount{
+class BankAccount{ 
 	private:
 		string name; 
 		int accountNum;
