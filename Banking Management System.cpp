@@ -3,7 +3,7 @@
 using namespace std;
 
 class BankAccount{ 
-	private:
+	private: 
 		string name; 
 		int accountNum;
 		double balance;
