@@ -143,7 +143,7 @@ main(){
 				exit(1);
 				break;
 			}
-	}
+	} 
 	cout<<"\t\tDo You Want to Countinue or Exit [Y/N]: ";
 	cin>>op;
 
