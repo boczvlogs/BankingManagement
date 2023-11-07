@@ -122,7 +122,7 @@ main(){
 					cout<<"\t\tAcount Not Found ..."<<endl;
 				}
 				break;
-			}
+			} 
 			case 5:{
 				int accountNum;
 				double amount;
