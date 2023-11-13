@@ -24,7 +24,7 @@ class BankAccount{
 		}
 		void deposit(double amount){
 			balance = balance + amount;   
-		} 
+		}  
 		void withdraw(double amount){
 			if(balance >= amount){
 				balance = balance - amount;
