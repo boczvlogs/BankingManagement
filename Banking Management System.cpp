@@ -31,7 +31,7 @@ class BankAccount{
 				cout<<"\t\tWithdraw Successfully..."<<endl;
 			}else{
 				cout<<"\t\tInsufficient Balance...."<<endl;
-			}
+			} 
 		}
 };
 class BankManagement{ 
