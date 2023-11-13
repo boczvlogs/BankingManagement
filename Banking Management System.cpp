@@ -126,7 +126,7 @@ main(){
 			case 5:{
 				int accountNum;
 				double amount;
-				cout<<"\t\tEnter Account Number to Withdraw Money :";
+				cout<<"\t\tEnter Account Number to Withdraw Money :"; 
 				cin>>accountNum;
 				BankAccount* account = bank.findAccount(accountNum);
 				if(account !=NULL){
