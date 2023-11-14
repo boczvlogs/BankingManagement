@@ -93,7 +93,7 @@ main(){
 				cout<<"\t\tEnter Initial Balance :";
 				cin>>balance;
 				bank.AddAccount(name,accountNum,balance);
-				cout<<"\t\tAccount Created Successfully...."<<endl;
+				cout<<"\t\tAccount Created Successfully...."<<endl; 
 				break;
 			}
 			case 2:{
