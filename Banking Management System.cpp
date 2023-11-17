@@ -5,7 +5,7 @@ using namespace std;
 class BankAccount{ 
 	private: 
 		string name; 
-		int accountNum;
+		int accountNum; 
 		double balance;   
 	public:  
 		BankAccount(string n, int ac,double bal){    
