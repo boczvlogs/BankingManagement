@@ -29,7 +29,7 @@ class BankAccount{
 			if(balance >= amount){
 				balance = balance - amount;
 				cout<<"\t\tWithdraw Successfully..."<<endl;
-			}else{
+			}else{ 
 				cout<<"\t\tInsufficient Balance...."<<endl;
 			} 
 		}
