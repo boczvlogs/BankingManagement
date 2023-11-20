@@ -65,7 +65,7 @@ class BankManagement{
 };
 main(){
 
-	BankManagement bank;
+	BankManagement bank; 
 	int choice;
 	char op;
 	do{
