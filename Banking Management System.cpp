@@ -140,7 +140,7 @@ main(){
 				break;
 			}
 			case 6:{
-				exit(1);
+				exit(1); 
 				break;
 			}
 	} 
