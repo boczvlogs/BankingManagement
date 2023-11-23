@@ -6,7 +6,7 @@ class BankAccount{
 	private: 
 		string name; 
 		int accountNum; 
-		double balance;   
+		double balance;    
 	public:  
 		BankAccount(string n, int ac,double bal){    
 			name = n; 
