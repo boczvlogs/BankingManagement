@@ -138,7 +138,7 @@ main(){
 					cout<<"\t\tAcount Not Found ..."<<endl;
 				}
 				break;
-			}
+			} 
 			case 6:{
 				exit(1); 
 				break;
