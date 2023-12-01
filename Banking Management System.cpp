@@ -22,7 +22,7 @@ class BankAccount{
 		double getBalance(){
 			return balance;
 		} 
-		void deposit(double amount){
+		void deposit(double amount){ 
 			balance = balance + amount;   
 		}  
 		void withdraw(double amount){
