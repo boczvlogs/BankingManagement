@@ -79,7 +79,7 @@ main(){
 		cout<<"\t\t5. Withdraw Money"<<endl;
 		cout<<"\t\t6. Exit"<<endl;
 		cout<<"\t\t------------------------------------------------"<<endl;
-		cout<<"\t\tEnter Your Choice :";
+		cout<<"\t\tEnter Your Choice :"; 
 		cin>>choice;
 		switch(choice){
 			case 1:{
