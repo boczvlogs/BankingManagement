@@ -141,7 +141,7 @@ main(){
 			} 
 			case 6:{
 				exit(1); 
-				break;
+				break; 
 			}
 	} 
 	cout<<"\t\tDo You Want to Countinue or Exit [Y/N]: ";
