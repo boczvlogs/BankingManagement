@@ -13,7 +13,7 @@ class BankAccount{
 			accountNum = ac;   
 			balance = bal;
 		} 
-		string getName(){  
+		string getName(){   
 			return name; 
 		}   
 		int getAccountNum(){  
