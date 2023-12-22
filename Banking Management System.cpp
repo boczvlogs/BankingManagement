@@ -19,7 +19,7 @@ class BankAccount{
 		int getAccountNum(){  
 			return accountNum;  
 			}  
-		double getBalance(){
+		double getBalance(){ 
 			return balance; 
 		} 
 		void deposit(double amount){ 
