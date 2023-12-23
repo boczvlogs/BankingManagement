@@ -63,7 +63,7 @@ class BankManagement{
 			}
 		}
 };
-main(){
+main(){ 
 
 	BankManagement bank; 
 	int choice;
