@@ -48,7 +48,7 @@ class BankManagement{
 			}
 		}
 		void searchAccount(int account){
-			cout<<"\t\tAccount Holder "<<endl;
+			cout<<"\t\tAccount Holder "<<endl; 
 			for(int i = 0; i<accounts.size();i++){
 				if(accounts[i].getAccountNum()==account){
 				cout<<"\t\tName :"<<accounts[i].getName()<<" Account Number :"<<accounts[i].getAccountNum()<<" Balance :"<<accounts[i].getBalance()<<endl;
