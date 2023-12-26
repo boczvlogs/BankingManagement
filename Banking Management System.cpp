@@ -14,7 +14,7 @@ class BankAccount{
 			balance = bal;
 		} 
 		string getName(){   
-			return name; 
+			return name;
 		}   
 		int getAccountNum(){  
 			return accountNum;  
