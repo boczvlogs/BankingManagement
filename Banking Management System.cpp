@@ -56,7 +56,7 @@ class BankManagement{
 			}
 		}
 		BankAccount* findAccount(int accountNum){
-			for(int i = 0; i<accounts.size();i++){
+			for(int i = 0; i<accounts.size();i++){ 
 				if(accounts[i].getAccountNum()==accountNum){
 					return &accounts[i];
 				}
