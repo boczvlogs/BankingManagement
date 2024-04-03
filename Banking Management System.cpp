@@ -20,7 +20,7 @@ class BankAccount{
 			return accountNum;
 			}  
 		double getBalance(){ 
-			return balance; 
+			return balance;
 		} 
 		void deposit(double amount){ 
 			balance = balance + amount;   
