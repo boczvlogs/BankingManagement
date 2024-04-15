@@ -10,7 +10,7 @@ class BankAccount{
 	public:    
 		BankAccount(string n, int ac,double bal){    
 			name = n; 
-			accountNum = ac;
+			accountNum = ac; 
 			balance = bal;
 		}   
 		string getName(){
