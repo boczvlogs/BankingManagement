@@ -30,7 +30,7 @@ class BankAccount{
 				balance = balance - amount; 
 				cout<<"\t\tWithdraw Successfully Thanks..."<<endl;
 			}else{ 
-				cout<<"\t\tInsufficient Balance available...."<<endl;
+				cout<<"\t\tInsufficient Balance available msft ...."<<endl;
 			} 
 		}
 };
