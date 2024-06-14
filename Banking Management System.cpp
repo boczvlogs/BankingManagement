@@ -32,7 +32,7 @@ class BankAccount{
 			}else{ 
 				cout<<"\t\tInsufficient Balance available msft ...."<<endl;
 			} 
-		}
+		  }
 };
 class BankManagement{ 
 	private:
