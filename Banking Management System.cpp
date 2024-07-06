@@ -70,7 +70,7 @@ main(){
 	char op;
 	do{
 		system("cls");
-		cout<<"\t\t===========Agoo Bocz Banking Management System V1.21 ===========\n"<<endl;
+		cout<<"\t\t=============Agoo Bocz Banking Management System V1.21 =============\n"<<endl;
 		cout<<"\t\t\tMain Menu"<<endl;
 		cout<<"\t\t1. Create New Account"<<endl;
 		cout<<"\t\t2. Show All Account"<<endl;
@@ -78,7 +78,7 @@ main(){
 		cout<<"\t\t4. Deposit Money"<<endl;
 		cout<<"\t\t5. Withdraw Money"<<endl;
 		cout<<"\t\t6. Exit"<<endl;
-		cout<<"\t\t-----------------------------------------------------------------"<<endl;
+		cout<<"\t\t----------------------------------------------------------------------"<<endl;
 		cout<<"\t\tEnter Your Choice :"; 
 		cin>>choice;
 		switch(choice){
