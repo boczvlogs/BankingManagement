@@ -62,7 +62,7 @@ class BankManagement{
 				}
 			}
 		}
-};
+}; 
 main(){ 
 
 	BankManagement bank; 
