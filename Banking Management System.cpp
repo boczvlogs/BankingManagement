@@ -34,7 +34,7 @@ class BankAccount{
 			} 
 		  }
 };
-class BankManagement{ 
+ class BankManagement{ 
 	private:
 		vector<BankAccount> accounts;
 	public:
