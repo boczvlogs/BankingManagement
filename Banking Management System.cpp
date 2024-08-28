@@ -16,7 +16,7 @@ class BankAccount{
 		string getName(){
 			return name;
 		}   
-		int getAccountNum(){
+		int getAccountNum(){ 
 			return accountNum; 
 			}  
 		double getBalance(){ 
