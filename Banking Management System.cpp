@@ -65,7 +65,7 @@ class BankAccount{
 }; 
 main(){ 
 
-	BankManagement bank; 
+	BankManagement bank;
 	int choice;
 	char op;
 	do{
@@ -152,4 +152,4 @@ main(){
 }
 
 // Agoo. MSFT Inc. v1.2 finance office 9/04/2024
-// To process Banking 
+// To process Banking 2024 
