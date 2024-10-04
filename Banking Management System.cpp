@@ -28,7 +28,7 @@ class BankAccount{
 		void withdraw(double amount){
 			if(balance >= amount){
 				balance = balance - amount; 
-				cout<<"\t\tWithdraw Successfully Thanks..."<<endl;
+				cout<<"\t\tWithdraw Successfully Thanks Aoo..."<<endl;
 			}else{ 
 				cout<<"\t\tInsufficient Balance available msft ...."<<endl;
 			} 
