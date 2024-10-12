@@ -150,5 +150,5 @@ main(){
 	}while(op == 'y'||op =='Y');
 }
 
-// Agoo. MSFT Inc. v1.2 finance office 9/04/2024
+// Agoo. MSFT Inc. v1.2 finance 10/12/2024
 // To process Banking 2024 
